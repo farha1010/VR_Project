@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dental Intra Oral X-ray Positioner, Periapical
+* source:	https://sketchfab.com/3d-models/dental-intra-oral-x-ray-positioner-periapical-e08c239d09c4484aa65ed2fbc4c89d7c
+* author:	E-learning UMCG (https://sketchfab.com/eLearningUMCG)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dental Intra Oral X-ray Positioner, Periapical" (https://sketchfab.com/3d-models/dental-intra-oral-x-ray-positioner-periapical-e08c239d09c4484aa65ed2fbc4c89d7c) by E-learning UMCG (https://sketchfab.com/eLearningUMCG) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
